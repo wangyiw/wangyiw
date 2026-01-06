@@ -3,7 +3,7 @@
 # 👋 你好, 我是 yww 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=dimgray&height=200&section=header&text=Evolving%20Step%20by%20Step&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=lightgrey&height=200&section=header&text=Evolving%20Step%20by%20Step&fontSize=50&animation=fadeIn" />
 </p>
 
 ### 👨‍💻 About me
