@@ -30,10 +30,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[wangyiw]&theme=github-light" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[wangyiw]/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
