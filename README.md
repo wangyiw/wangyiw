@@ -11,7 +11,7 @@
 - 🎓 **研究方向**：**深度学习与癫痫检测**，**脑电信号（EEG）处理**、跨患者域泛化以及时空特征融合算法。
 ---
 
-### 📊 GitHub 统计
+### 📊 GitHub 
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[wangyiw]&show_icons=true&theme=nord&include_all_commits=true" />
@@ -24,7 +24,7 @@
 
 ---
 
-### 📫 如何联系我
+### 📫 How to contact me
 - 📧 **Email**: [wyw110213@163.com]
 - 🏠 **Blog**: [https://blog.yww-me.top]
 
