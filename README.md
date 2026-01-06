@@ -3,7 +3,7 @@
 # 👋 你好, 我是 yww 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=34495e&height=200&section=header&text=Getting%201%25%20Better%20Every%20Day&fontSize=45&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=34495e&height=200&section=header&text=Getting%201%25%20Better%20&fontSize=45&animation=fadeIn" />
 </p>
 
 ### 👨‍💻 About me
