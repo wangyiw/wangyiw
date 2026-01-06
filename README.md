@@ -3,11 +3,7 @@
 # 👋 你好, 我是 yww 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Learning%20&%20Building&fontSize=50&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <b>完成比完美更重要</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Getting 1% %20Better%20Every%20DaY&fontSize=50&animation=fadeIn" />
 </p>
 
 ### 👨‍💻 About me
