@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**wangyiw/wangyiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 你好, 我是 yww 
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Backend%20Engineer%20|%20DL%20Researcher&fontSize=50&animation=fadeIn" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About me
+- ✍️ **近期动态**：应用软件工程师/后端开发工程师
+- 🎓 **研究方向**：**深度学习与癫痫检测**，**脑电信号（EEG）处理**、跨患者域泛化以及时空特征融合算法。
+---
+
+### 📊 GitHub 统计
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[wangyiw]&show_icons=true&theme=nord&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[wangyiw]&layout=compact&theme=nord" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YOUR_USERNAME]&theme=nord" />
+</p>
+
+---
+
+### 📫 如何联系我
+- 📧 **Email**: [wyw110213@163.com]
+- 🏠 **Blog**: [https://blog.yww-me.top]
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[wangyiw]&theme=github-light" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[wangyiw]/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
